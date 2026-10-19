@@ -94,7 +94,7 @@ void sixth()
     }
     else
     {
-        cout << a << " has only one digit " << endl;
+        cout << a << "  has not two digits " << endl;
     }
 }
 void seventh()
